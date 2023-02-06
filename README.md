@@ -7,11 +7,11 @@ Soy persistente, reflexivo y una persona con la mente abierta. Tengo la experien
 ## Me gusta aprender, tener tiempo para experimentar, y disfrutar.
 
 Sigo estudiando en:
-- [Universidad Oberta Catalunya] (https://www.uoc.edu/portal/es/index.html)
+- [Universidad Oberta Catalunya](https://www.uoc.edu/portal/es/index.html)
 - [OpenBootcamp - reactJs](https://campus.open-bootcamp.com/)
-- [W3 School - Javascript] (https://www.w3schools.com/)
-- [Codepen - web ] (https://codepen.io/)
-- [La vida] (https://www.google.com/)
+- [W3 School - Javascript](https://www.w3schools.com/)
+- [Codepen - web ](https://codepen.io/)
+- [La vida](https://stackoverflow.com/))
                    
                    
 
