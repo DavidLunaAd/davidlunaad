@@ -4,11 +4,14 @@ Soy desarrollador, tras varios años compaginando estudios con trabajos y las re
 
 Soy persistente, reflexivo y una persona con la mente abierta. Tengo la experiencia de los años pero la curiosidad del estudiante.
 
-##Me gusta aprender, tener tiempo para experimentar, y disfrutar.
+## Me gusta aprender, tener tiempo para experimentar, y disfrutar.
 
-Sigo estudiando en - [OpenBootcamp - reactJs](https://campus.open-bootcamp.com/)
-                   - [W3 School - Javascript] (https://www.w3schools.com/)
-                   - ....
+Sigo estudiando en:
+- [Universidad Oberta Catalunya] (https://www.uoc.edu/portal/es/index.html)
+- [OpenBootcamp - reactJs](https://campus.open-bootcamp.com/)
+- [W3 School - Javascript] (https://www.w3schools.com/)
+- [Codepen - web ] (https://codepen.io/)
+- [La vida] (https://www.google.com/)
                    
                    
 
