@@ -11,7 +11,8 @@ Sigo estudiando en:
 - [OpenBootcamp - reactJs](https://campus.open-bootcamp.com/)
 - [W3 School - Javascript](https://www.w3schools.com/)
 - [Codepen - web ](https://codepen.io/)
-- [La vida](https://stackoverflow.com/))
+- [La vida - google, stackoverflow, chatgpt ...](https://stackoverflow.com/)
+
                    
                    
 
